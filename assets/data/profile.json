@@ -38,8 +38,16 @@
             "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/java.png"
         },
         {
+            "name": "PHP",
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/php.png"
+        },
+        {
             "name": "SpringBoot",
             "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/springboot.png"
+        },
+        {
+            "name": "Laravel",
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/laravel.png"
         },
         {
             "name": "NodeJS",
