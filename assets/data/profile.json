@@ -30,6 +30,10 @@
             "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/php.png"
         },
         {
+            "name": "Symfony",
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/Symfony.png"
+        },
+        {
             "name": "GitHub",
             "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/github.png"
         },
