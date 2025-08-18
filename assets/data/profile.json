@@ -29,6 +29,14 @@
             "name": "PHP",
             "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/php.png"
         },
+                {
+            "name": "C#",
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/CSharp.png"
+        },
+                {
+            "name": ".NET",
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/NET.png"
+        },
         {
             "name": "Symfony",
             "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/Symfony.png"
@@ -57,6 +65,10 @@
     "course": [
 
           {
+            "name": "GFT Start #7 .NET  / DIO",
+            "period": "08/2025"
+
+          },{
             "name": "Formação PHP Experience / DIO",
             "period": "07/2025"
 
