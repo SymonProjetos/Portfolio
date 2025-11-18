@@ -117,7 +117,11 @@
           "- HTML", 
           "- CSS",
           "- JavaScript", 
-          "- Metodologia Ágil"]
+          "- Metodologia Ágil",
+          "- C#",
+          "- ASP.NET MVC",
+          "- Banco de Dados",
+          "- Desenvolvimento Web"]
       },
       {
         "name": "Técnico Desenvolvimento de Sistemas / Senai Fatec BH",
@@ -174,41 +178,40 @@
     ],
     "professionalExperience": [
       {
-        "name": "REALOCAÇÃO – PAUSA NA CARREIRA / Autônomo e Particular",
+        "name": "Capillus E-Commerce Group Lojas Online",
         "period": "01/03/2022 - Atual",
-        "description": ["- Trabalho Autônomo."]
+        "description": [
+          "- Gestão completa de 4 lojas virtuais operando nas plataformas Mercado Livre, Shopee e Magazine Luiza.",
+          "- Responsável por todo o ciclo de operações: cadastro de produtos, gerenciamento de estoque, processamento de pedidos e atendimento ao cliente.",
+          "- Responsável pelo desenvolvimento de planilhas e soluções internas para otimização da gestão, utilizando fórmulas avançadas e programação.",
+          "- Paralelamente, dedicado à requalificação profissional para a área de Desenvolvimento de Software."
+        ]
       },
       {
         "name": "Técnico em Suporte de TI / ATMC CONSULTORIA E ENGENHARIA",
         "period": "22/07/2019 - 25/02/2022",
         "description": [
-         "- Suporte ao Usuário - Remoto e Presencial.", 
-         "- Gestão de AD. Windows Server, Backup, Firewall.",
-         "- Instalação e Resolução de Problemas, Windows, Softwares e Hardwares.", 
-         "- Manutenção de Infraestrutura de Redes.",
-         "- Inventário e Controle de Equipamentos.",
-         "- Auxiliar de Projetos de Engenharia de Automação."]
+         "- Gestão de Active Directory, Windows Server, Backup e Firewall.", 
+         "- Suporte ao Usuário (Remoto e Presencial) e resolução de problemas de software e hardware",
+         "- Manutenção de Infraestrutura de Redes e Inventário de equipamentos.", 
+         "- Auxiliar de Projetos de Engenharia de Automação (Desenvolvimento de Supervisórios)."]
       },
       {
         "name": "Técnico em Suporte de TI / FC INFORMÁTICA",
         "period": "04/01/2019 - 19/07/2019",
         "description": [
-          "- Suporte ao Cliente (Usuário) - Remoto e Presencial (Terceirizado).",
-          "- Gestão de AD, Windows Server, Backup.",
-          "- Instalação e Resolução de Problemas, Windows, Softwares e Hardwares.",
-          "- Suporte a Sites Jurídicos e Configuração de Token.", 
-          "- Manutenção de Infraestrutura de Redes."
+          "- Suporte ao Cliente (Remoto e Presencial) e gestão de AD, Windows Server e Backup.",
+          "- Instalação e Resolução de Problemas (Windows, Softwares, Hardwares).",
+          "- Suporte a Sites Jurídicos e Configuração de Token."
       ]
       },
       {
         "name": "Estagiário de Suporte de TI / ATMC CONSULTORIA E ENGENHARIA",
         "period": "23/04/2018 - 03/01/2019",
         "description": [
-          "- Suporte ao Usuário - Presencial.",
-          "- Gestão de AD, Windows Server, Backup, Firewall.",
-          "- Instalação e Resolução de Problemas, Windows, Softwares e Hardwares.",
-          "- Manutenção de Infraestrutura de Redes.",
-          "- Inventário e Controle de Equipamentos."
+          "- Gestão de Active Directory, Windows Server, Backup e Firewall.",
+          "- Suporte ao Usuário (Remoto e Presencial) e resolução de problemas de software e hardware",
+          "- Manutenção de Infraestrutura de Redes e Inventário de equipamentos."
       ]
       }
     ]
