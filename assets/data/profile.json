@@ -156,7 +156,7 @@
         "github": true
       },
       {
-        "name": "Vestindo Esperança Repositório",
+        "name": "Vestindo Esperança Repositório (Puc Minas 1º Período)",
         "url": "https://github.com/SymonSL7/VestindoEsperancaPucMinas1Periodo",
         "github": true
       },
@@ -168,6 +168,11 @@
       {
         "name": "Controle de Estoque Full Stack, Angular e Symfony",
         "url": "https://github.com/SymonSL7/controle-estoque-full-stack",
+        "github": true
+      },
+      {
+        "name": "SaberMais (Puc Minas 2º Perído)",
+        "url": "https://github.com/SymonSL7/SaberMais",
         "github": true
       }
     ],
