@@ -65,11 +65,21 @@
     "course": [
 
           {
-            "name": "Bootcamp Blip Lógica de Programação  / DIO",
+            "name": "Formação CSS Web Developer / DIO",
+            "period": "02/2026"
+
+          },          
+          {
+            "name": "Formação HTML Web Developer / DIO",
+            "period": "02/2026"
+
+          },
+          {
+            "name": "Bootcamp Blip Lógica de Programação / DIO",
             "period": "01/2026"
 
           }, {
-            "name": "GFT Start #7 .NET  / DIO",
+            "name": "GFT Start #7 .NET / DIO",
             "period": "08/2025"
 
           },{
