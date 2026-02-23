@@ -26,20 +26,12 @@
             "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/typescript.png"
         },
         {
-            "name": "PHP",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/php.png"
-        },
-                {
             "name": "C#",
             "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/CSharp.png"
         },
                 {
             "name": ".NET",
             "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/NETBranco.png"
-        },
-        {
-            "name": "Symfony",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/Symfony.png"
         },
         {
             "name": "GitHub",
