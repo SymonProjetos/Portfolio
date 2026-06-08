@@ -127,7 +127,10 @@
           "- C#",
           "- ASP.NET MVC",
           "- Banco de Dados",
-          "- Desenvolvimento Web"]
+          "- Desenvolvimento Web",
+          "- React Native",
+          "- Desenvolvimento Mobile",
+          "- Expo / Expo GO"]
       },
       {
         "name": "Técnico Desenvolvimento de Sistemas / Senai Fatec BH",
@@ -152,8 +155,13 @@
         "github": true
       },
       {
-        "name": "GitHub Repositórios Symon",
+        "name": "GitHub Repositórios Focados em Projetos",
         "url": "https://github.com/orgs/SymonProjetos/repositories",
+        "github": true 
+      },
+      {
+        "name": "GitHub Repositórios Focado em Atividades de EstudoS/Cursos",
+        "url": "https://github.com/SymonSL7?tab=repositories",
         "github": true 
       },
       {
