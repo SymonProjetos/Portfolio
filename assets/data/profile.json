@@ -162,7 +162,7 @@
         "github": true 
       },
       {
-        "name": "GitHub Repositórios Focado em Atividades de EstudoS/Cursos",
+        "name": "GitHub Repositórios Focado em Atividades de Estudos/Cursos",
         "url": "https://github.com/SymonSL7?tab=repositories",
         "github": true 
       },
@@ -189,6 +189,11 @@
       {
         "name": "SaberMais (Puc Minas 2º Perído)",
         "url": "https://github.com/SymonSL7/SaberMais",
+        "github": true
+      },
+      {
+        "name": "ShopSmart (Puc Minas 3º Perído)",
+        "url": "https://github.com/SymonProjetos/ShopSmart",
         "github": true
       }
     ],
